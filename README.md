@@ -1,11 +1,12 @@
 # Unique Ring Signature
 
-##Before you run
+## Before you run
 Install SageMath v9.2 from [here](https://www.sagemath.org/download.html)
 
 
-## Follow these step to run the code:
+## Follow these below steps to run the code:
 **Step 1:** Open git folder by SageMath Notetbook
+
 **Step 2:** Set up ring signature:
 - `n`: number of bits
 - `N`: number of members in the ring (N=2^n)
